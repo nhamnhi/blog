@@ -1,6 +1,6 @@
 <section class="disqus">
     <div class="comment-wrapper">
-        {% if site.facebook-comment %}
+        {% if site.data.settings.facebook-comment %}
             <div class="fb-comments" data-href="{{ page.url | absolute_url }}" data-width="100%" data-numposts="10"></div>
         {% endif %}
     </div>
