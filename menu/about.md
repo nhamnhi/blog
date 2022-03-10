@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Chào bạn đến với blog của tôi!
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Tôi thuộc thế hệ 9x đời đầu. 
 
-### Getting Started
+Tại thời điểm đặt tay viết mấy dòng này, tôi có một gia đình nhỏ với vợ và một cậu con 1 tuổi.
+Công việc kiếm cơm chính của tôi là một nhân viên An ninh thông tin - một mảng nhỏ trong lĩnh vực IT.
+Về cả cuộc sống và công việc trước giờ tôi vẫn tự thấy mình khá may mắn (Dĩ nhiên là tính tới thời điểm hiện tại).
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Nói chút về bản thân. Tự thấy mình là người kiệm lời, lành tính nhưng nghĩ nhiều.
 
-### Example Content
+Blog là những câu chuyện, những trải nghiệm hay là góc nhìn cá nhân về những gì xảy ra xung quanh cuộc sống hàng ngày,
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+Thân,
 
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
