@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chuyện sống giữa đại dịch Covid 19 những năm 202X,"
+title: "Sống giữa đại dịch Covid, những năm 202X,"
 author: "remi"
 categories: stories
 tags: [Chuyện]
