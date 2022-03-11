@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
+title: "2022 - Những ngày covid khắp nơi,"
+author: "remi"
+categories: stories
+tags: [viet]
 image: assets/img/mountains.jpg
 ---
 
