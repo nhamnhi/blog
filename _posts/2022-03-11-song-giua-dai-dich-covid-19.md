@@ -31,7 +31,7 @@ Nhưng cũng chính trong những ngày đầu tiên đó vì covid mà có nh�
 
 Đấy là chuyện người bệnh còn đời sống xã hội lúc nào mọi người cũng nơm nớp sống trong lo sợ mắc bệnh. Lâu lâu ở đâu có tầm chục ca bệnh là chính quyền ra quy định phong tỏa cấm đoán mọi hoạt động, cho dù là hàng quán, kinh doanh, buôn bán, công ty, xí nghiệp hay là sinh hoạt bình thường, thể dục thể thao,... nói chung cấm tất để giảm tiếp xúc giữa người với người, hạn chế mầm bệnh lây lan . Đỉnh điểm có thời gian cả SG và HN cùng nhiều tỉnh thành khác người ta cấm cả người dân ra đường chỉ ở trong nhà cả tháng trời :'( ai ra ngoài bị bắt là sẽ bị phạt tiền. Muốn ra ngoài mua lương thực sẽ được phát tem/phiếu đi chợ. Tuần chỉ được đi 2 lần mỗi lần một nhà chỉ được 1 người đi. Cuộc sống phải nói là tù túng vô cùng.
 
-![han che]({{site.url}}/assets/img/2022/03/11/hanche.png)
+![han che]({{site.url}}/assets/img/2022/03/11/hanche.jpg)
 
 Sau tầm 1 năm thì người ta cũng chế được vaxin ngừa bệnh. Nhưng những lô vacxin đầu tiên chỉ có các nước giàu mới được sở hữu. Nước nghèo, dân nghèo thì mơ đi thôi làm gì có cửa. Nghịch lý đỉnh điểm nó còn xảy ra như thế này: Tại Mỹ và một số nước Châu Âu, Nhật vacxin thì để hết hạn trong kho mà những nước nghèo muốn tiêm cũng không có mà tiêm. Quay lại Vietnam, hồi đó cũng xin được vài lô nhỏ, tiêm chả đáng được 1% trong số dân số 100tr không thấm vào đâu. 
 
@@ -39,14 +39,14 @@ Sau tầm 1 năm thì người ta cũng chế được vaxin ngừa bệnh. Như
 
 2 năm kể từ ngày con virus được phát hiện. Chưa kịp có vacxin tiêm đại trà, lâu lâu virus lại làm đợt dịch oanh tạc cả thế giới. Nếu như ban đầu nó xử Châu Âu, Mỹ thì đoạn sau nó sử Ấn Độ, Indonexia rồi Myanmar, Lào sau cùng là Việt Nam. Ở Việt Nam  địa điểm ghé thăm đầu tiên là Sài Gòn vào tầm tháng 06/2021. Có lẽ đó là quãng thời gian kinh khủng nhất từ sau chiến tranh 1975. Thời điểm đó, trên mxh đâu đâu cũng thấy tiếng kêu cứu, bệnh viện quá tải, lò thiêu hoạt động hết công suất vẫn không kịp, có lúc người ta phải bỏ xác người vào container trữ lạnh để bảo quản vì hỏa thiêu không kịp. Đã rất nhiều người phải bỏ mạng vì con virus này. Người bỏ mạng vì nó sẽ ra đi trong đơn độc không một người thân bên cạnh. Có người lúc đi còn vẫy tay chào người thân nghĩ chỉ là chuyến cách ly vài ngày, vài ngày sau quay về chỉ là lọ tro tàn. Cả thành phố đâu đâu cũng nghe tiếng đau thương. Lệnh đóng băng toàn thành phố phát ra cấm mọi người ra đường. Quân đội được điều động thay shipper đi chuyển đồ cho dân. Cứ như thế SG đã trải qua 4,5 tháng kinh hoàng tưởng như chỉ có trong phim kinh dị vậy.
 
-![container1]({{site.url}}/assets/img/2022/03/11/container.png)
+![container1]({{site.url}}/assets/img/2022/03/11/container.jpg)
 
 ![radi don doc]({{site.url}}/assets/img/2022/03/11/dondoc2.png)
 
 
 Tới đây, bắt bắt đầu từ điểm xuất phát đó con virus này tiếp tục lan ra cả nước. Và rồi HN và nhiều địa phương bắt đầu phong tỏa. Để "chờ vắc xin"
 
-![phong toa]({{site.url}}/assets/img/2022/03/11/phongtoa.png)
+![phong toa]({{site.url}}/assets/img/2022/03/11/phongtoa.jpg)
 
 ![cam duong]({{site.url}}/assets/img/2022/03/11/camduong.jpeg)
 
