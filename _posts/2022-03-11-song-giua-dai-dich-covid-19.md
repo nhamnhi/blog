@@ -7,7 +7,7 @@ tags: [Chuyện]
 image: assets/img/2022/03/11/corona_intro.jpg
 ---
 
-Cả nhà bị nhiễm covid nên cả tuần chả đi đâu. Nay chưa nghĩ ra làm gì, thôi ngồi viết blog vậy. Viết chút về Covid, về những gì liên quan tới nó.
+Cả nhà bị nhiễm covid nên cả tuần chả đi đâu. Nay chưa nghĩ ra làm gì, thôi ngồi viết blog vậy. Viết chút về Covid, về những gì liên quan tới nó. Hy vọng sẽ là cái gợi lại rất nhiều "kỷ niệm đáng nhớ" đối với ai trải qua những ngày tháng này.
 
 Khó để nhớ chính xác khi nào tôi đọc những dòng tin đầu về covid. Tôi chỉ nhớ mang máng chuyến đi từ thiện Cao Bằng cùng công ty cũ (tầm tháng 01/2020 gì đó) vừa kết thúc thì khắp báo đài, fb nghe tin tại thành phố Vũ Hán của Trung Cẩu (Xin lỗi cho tôi gọi vậy vì tôi ghét cái bọn Tàu) xuất hiện dịch bệnh lạ lây qua đường hô hấp. Dịch bệnh này làm các bệnh viện quá tải, số người tử vong lớn đến mức các nhà xác hoạt động hết công suất cũng không đáp ứng nổi. Chính quyền Trung Cẩu - như bản tính vốn có từ lâu vẫn im ỉm, dấu nhẹn thông tin, che đi mọi sự thật đằng sau. Sau đó do lịch lan quá nhanh, không còn cách nào họ đành ra lệnh phong tỏa TP Vũ Hán nội bất xuất, ngoại bất nhập nhằm ngăn chặn dịch bệnh nhưng đã quá muộn, dịch đã lan ra toàn thế giới. 
 
@@ -17,11 +17,15 @@ Nói về con virus Covid. Điểm tồi tệ của con virus này là lây qua 
 
 ![virus die]({{site.url}}/assets/img/2022/03/11/die.jpg)
 
-Khi dịch bệnh lan sang Châu Âu, sau đó là Mỹ là thảm kịch. Ngày nào mỗi thành phố có tới cả ngàn người chết. Cộng đồn dần cho mỗi nước Châu Âu, Mỹ chỉ trong vòng nửa tháng có đến hàng chục người tử vong. Thế giới phải nói là trải qua những ngày tháng khủng khiếp chắc chỉ đếm đầu ngón tay trong lịch sử loài người.
+Khi dịch bệnh lan sang Châu Âu, sau đó là Mỹ là thảm kịch. Ngày nào mỗi thành phố có tới cả ngàn người chết. Cộng đồn dần cho mỗi nước Châu Âu, Mỹ chỉ trong vòng nửa tháng có đến hàng chục ngàn người tử vong. Thế giới phải nói là trải qua những ngày tháng khủng khiếp chắc chỉ đếm đầu ngón tay trong lịch sử loài người.
 
 ![eu virus]({{site.url}}/assets/img/2022/03/11/uk.png)
 
-VN ngay sát ông bạn láng giềng Trung Cẩu những tưởng toang sớm. Nhưng từ những ngày đầu không rõ lượm nhặt được thông tin từ đâu (người ta đồn là từ tình báo mạng) sớm nhận thức được sự nguy hiểm của dịch bệnh đã nhanh chóng đóng cửa cô lập biên giới, nhờ vậy mà chặn đứng được dịch bệnh từ sớm. Ở những ngày đầu tiên đó khi cả thế giới hoang mang thì Việt Nam tạm đã tránh được thảm kịch một cách không ai ngờ tới. Có lúc người ta gọi VN là nơi "an toàn nhất thế giới" tại thời điểm đó. Nhưng cũng chính trong những ngày đầu tiên đó vì covid mà có những chuyện dở khóc dở cười. Những người bị mắc covid ở VN ngoài việc bị coi là tội đồ mang mầm bệnh về sẽ bị đưa đi cách ly với xã hội. Rồi bị CA "tra khảo" lịch trình trong 1 tháng là đã đi đâu, làm gì, tiếp xúc những ai, ... Sau đó các thông tin đó (đương nhiên kèm tên tuổi, địa chỉ) sẽ "bị" public lên mạng xã hội, lên báo trí, truyền thông, .. lên mọi nơi có thể mục đích là ai "có thể" tiếp xúc người bệnh tự phải khai báo để đưa đi cách ly với xã hội. Nghe thì rất logic. Nhưng chuyện hay rồi đây, có người đi bar, đi sàn, đi nhà nghỉ, đi kara tay vịn giải trí, ... toàn địa điểm nhạy cảm cũng bị tra khảo khai ra bằng được để đưa lên. Mấy chuyện này nếu bình thường chả có gì, chả ai quan tâm đâu vì cuộc sống của bạn chả liên quan tới ai, ai hơi đâu ai để ý. Nhưng tự dưng nay lại thành chủ đề để khắp các ngóc ngách, cả xã hội nhảy vào soi mói mổ sẻ, đánh giá theo ý kiến số đông hung hãn vô tâm với tâm lý bầy đàn không chút tình người. Kết quả là việc này làm không ít người bao đêm mất ngủ, bao gia đình nhà tan cửa nát.
+VN ngay sát ông bạn láng giềng Trung Cẩu những tưởng toang sớm. Nhưng từ những ngày đầu không rõ lượm nhặt được thông tin từ đâu (người ta đồn là từ tình báo mạng) sớm nhận thức được sự nguy hiểm của dịch bệnh đã nhanh chóng đóng cửa cô lập biên giới, nhờ vậy mà chặn đứng được dịch bệnh từ sớm. Ở những ngày đầu tiên đó khi cả thế giới hoang mang thì Việt Nam tạm đã tránh được thảm kịch một cách không ai ngờ tới. Có lúc người ta gọi VN là nơi "an toàn nhất thế giới" tại thời điểm đó. 
+
+![eu virus]({{site.url}}/assets/img/2022/03/11/vn_kydieu.png)
+
+Nhưng cũng chính trong những ngày đầu tiên đó vì covid mà có những chuyện dở khóc dở cười. Những người bị mắc covid ở VN ngoài việc bị coi là tội đồ mang mầm bệnh về sẽ bị đưa đi cách ly với xã hội. Rồi bị CA "tra khảo" lịch trình trong 1 tháng là đã đi đâu, làm gì, tiếp xúc những ai, ... Sau đó các thông tin đó (đương nhiên kèm tên tuổi, địa chỉ) sẽ "bị" public lên mạng xã hội, lên báo trí, truyền thông, .. lên mọi nơi có thể mục đích là ai "có thể" tiếp xúc người bệnh tự phải khai báo để đưa đi cách ly với xã hội. Nghe thì rất logic. Nhưng chuyện hay rồi đây, có người đi bar, đi sàn, đi nhà nghỉ, đi kara tay vịn giải trí, ... toàn địa điểm nhạy cảm cũng bị tra khảo khai ra bằng được để đưa lên. Mấy chuyện này nếu bình thường chả có gì, chả ai quan tâm đâu vì cuộc sống của bạn chả liên quan tới ai, ai hơi đâu ai để ý. Nhưng tự dưng nay lại thành chủ đề để khắp các ngóc ngách, cả xã hội nhảy vào soi mói mổ sẻ, đánh giá theo ý kiến số đông hung hãn vô tâm với tâm lý bầy đàn không chút tình người. Kết quả là việc này làm không ít người bao đêm mất ngủ, bao gia đình nhà tan cửa nát.
 
 ![hongnhung]({{site.url}}/assets/img/2022/03/11/hongnhung.jpg)
 
@@ -29,10 +33,16 @@ VN ngay sát ông bạn láng giềng Trung Cẩu những tưởng toang sớm. 
 
 ![han che]({{site.url}}/assets/img/2022/03/11/hanche.png)
 
-
 Sau tầm 1 năm thì người ta cũng chế được vaxin ngừa bệnh. Nhưng những lô vacxin đầu tiên chỉ có các nước giàu mới được sở hữu. Nước nghèo, dân nghèo thì mơ đi thôi làm gì có cửa. Nghịch lý đỉnh điểm nó còn xảy ra như thế này: Tại Mỹ và một số nước Châu Âu, Nhật vacxin thì để hết hạn trong kho mà những nước nghèo muốn tiêm cũng không có mà tiêm. Quay lại Vietnam, hồi đó cũng xin được vài lô nhỏ, tiêm chả đáng được 1% trong số dân số 100tr không thấm vào đâu. 
 
+![bat binh dang]({{site.url}}/assets/img/2022/03/11/batbinhdang.png)
+
 2 năm kể từ ngày con virus được phát hiện. Chưa kịp có vacxin tiêm đại trà, lâu lâu virus lại làm đợt dịch oanh tạc cả thế giới. Nếu như ban đầu nó xử Châu Âu, Mỹ thì đoạn sau nó sử Ấn Độ, Indonexia rồi Myanmar, Lào sau cùng là Việt Nam. Ở Việt Nam  địa điểm ghé thăm đầu tiên là Sài Gòn vào tầm tháng 06/2021. Có lẽ đó là quãng thời gian kinh khủng nhất từ sau chiến tranh 1975. Thời điểm đó, trên mxh đâu đâu cũng thấy tiếng kêu cứu, bệnh viện quá tải, lò thiêu hoạt động hết công suất vẫn không kịp, có lúc người ta phải bỏ xác người vào container trữ lạnh để bảo quản vì hỏa thiêu không kịp. Đã rất nhiều người phải bỏ mạng vì con virus này. Người bỏ mạng vì nó sẽ ra đi trong đơn độc không một người thân bên cạnh. Có người lúc đi còn vẫy tay chào người thân nghĩ chỉ là chuyến cách ly vài ngày, vài ngày sau quay về chỉ là lọ tro tàn. Cả thành phố đâu đâu cũng nghe tiếng đau thương. Lệnh đóng băng toàn thành phố phát ra cấm mọi người ra đường. Quân đội được điều động thay shipper đi chuyển đồ cho dân. Cứ như thế SG đã trải qua 4,5 tháng kinh hoàng tưởng như chỉ có trong phim kinh dị vậy.
+
+![container1]({{site.url}}/assets/img/2022/03/11/container.png)
+
+![radi don doc]({{site.url}}/assets/img/2022/03/11/dondoc2.png)
+
 
 Tới đây, bắt bắt đầu từ điểm xuất phát đó con virus này tiếp tục lan ra cả nước. Và rồi HN và nhiều địa phương bắt đầu phong tỏa. Để "chờ vắc xin"
 
