@@ -4,8 +4,9 @@ title: Tags
 permalink: /tags
 ---
 
-<ul>
-  {% for tag in site.tags %}
-    <li>{{ tag }}</li>
-  {% endfor %}
-</ul>
+
+<h1> dev tags </h1>
+{% for tags in page.tags %}
+  {{ tags }}
+{% endfor %}
+
