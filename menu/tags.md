@@ -5,8 +5,12 @@ permalink: /tags
 ---
 
 
-<h1> dev tags </h1>
-{% for tags in page.tags %}
-  {{ tags }}
-{% endfor %}
+<h1> dev f </h1>
+<ul class="tags">
+    {% for tag in site.tags %}
+      <li>
+        <a href="/tags/#{{ tag[0] }}" class="post-tag">{{ tag[0] }}</a>
+      </li>
+    {% endfor %}
+</ul>
 
