@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Writing
+title: Nhà kho chứa bài viết cũ,
 permalink: /writing
 ---

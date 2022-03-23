@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Liên hệ với tôi,
 permalink: /contact
 ---
 
