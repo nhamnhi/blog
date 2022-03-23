@@ -4,7 +4,7 @@ title: Một chút về tôi,
 permalink: /about
 ---
 
-Tôi thích mọi người gọi tôi là Remi - Vì tôi thích nhân vật cậu bé Remi trong "Không gia đình".
+Tôi thích mọi người gọi tôi là Remi (Rémi) - Tên nhân vật chính trong cuốn tiểu thuyết mà tôi ưa thích.
 
 Nói về tuổi, tôi thuộc thế hệ 9x đời đầu. Thế hệ của chúng tôi là nghe XoneFM, Imuzik và chơi Audition.
 
