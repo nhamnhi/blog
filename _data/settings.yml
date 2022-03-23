@@ -12,6 +12,7 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'Về tôi',   url: 'about.html'}
 - {name: 'Nhà kho', url: 'writing.html'}
+- {name: 'Chủ đề', url: 'tags.html'}
 - {name: 'Gọi cho tôi', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
