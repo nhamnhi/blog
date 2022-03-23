@@ -41,6 +41,12 @@
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v13.0" nonce="h78Dc9Gu"></script>
 
-   <!-- Use Jekyll SEO plugin -->
+  <!-- Use Jekyll SEO plugin -->
   {% seo %}
+
+  <!-- Incloude tags -->
+  {% if site.tags != "" %}
+    {% include collecttags.html %}
+  {% endif %}
+
 </head>
