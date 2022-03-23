@@ -16,5 +16,11 @@ Blog là những câu chuyện, những trải nghiệm hay là góc nhìn cá n
 
 Tôi rất vui vì bạn đã dành thời gian cho blog của tôi hay là đọc những dòng này,
 
+PS: Nếu bạn "Enjoy!" có thể Like fanpage để cập nhật những bài viết mới nhất của tôi,
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fremiblog%2Fabout%3Fref%3Dpage_internal&tabs=timeline&width=340&height=187&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=4610405982398409" width="340" height="187" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Bạn cũng có thể trao đổi với tôi qua comment hoặc Messenger FB vì chúng ta hoàn toàn có thể trở thành những người bạn bên ngoài - không phải chỉ trong thế giới ảo,
+
 Thân,
 
